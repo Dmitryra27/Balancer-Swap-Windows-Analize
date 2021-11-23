@@ -15,3 +15,5 @@ Strategy 3 is an attempt to change weights when market prices move in the direct
 
 A computational experiment was carried out.
 The charts show the effectiveness of strategies.
+
+Open file Balancer_swap_windows.ipynb and see results.
